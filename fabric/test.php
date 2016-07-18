@@ -22,6 +22,11 @@
 			{
 				alert('Conflict thay chhe ??');
 			}
+			
+			function read()
+			{
+				alert('read');
+			}
 
         </script>
     </body>
