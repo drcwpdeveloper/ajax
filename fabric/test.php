@@ -14,7 +14,10 @@
             <input type="button" value="Insert" class="insert">
         </div>
         <script type="text/javascript">
-            
+            function AlertPopup()
+			{
+				alert('Conflict thay chhe ??');
+			}
         </script>
     </body>
 </html>
